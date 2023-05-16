@@ -10,11 +10,17 @@ using System.Windows.Forms;
 
 namespace _21ProjectSchool
 {
+
     public partial class form21 : Form
     {
         public form21()
         {
             InitializeComponent();
+        }
+
+        private void form21_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

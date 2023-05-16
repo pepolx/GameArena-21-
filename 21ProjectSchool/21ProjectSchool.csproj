@@ -9,4 +9,12 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Resources\cards.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\cards.png" />
+  </ItemGroup>
+
 </Project>
